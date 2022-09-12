@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123275921468",
+    "project_id": "profilebaba-f7d80",
+    "storage_bucket": "profilebaba-f7d80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123275921468:android:21807ed26dc69c60e51b39",
+        "android_client_info": {
+          "package_name": "com.profilebaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123275921468-rrefe5th2mmmldbt2hob1sbm5nq76okm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrUPFdqu-2YUVKacMUmH2tJRH7crcz8uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123275921468-rrefe5th2mmmldbt2hob1sbm5nq76okm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
